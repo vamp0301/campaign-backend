@@ -14,6 +14,7 @@ app.use(
     origin: [
       "http://localhost:3000",
       "http://localhost:3001",
+      "https://campaign-backend-xkzn.onrender.com"
     ],
     credentials: true,
   })
